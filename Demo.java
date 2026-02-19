@@ -9,6 +9,9 @@ public static void main(String[] args) {
 public class  Student {
     int id;
     String name;
+    void student(){
+
+    }
     
 }
 
