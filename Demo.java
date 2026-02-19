@@ -5,6 +5,10 @@ public static void main(String[] args) {
 
     int multi = 90*90;
     System.out.println(multi);
+
+}
+public class Emp{
+    
     int sum=10+20;
     System.out.println(sum);
     System.out.println("hellllooooo");
