@@ -7,6 +7,7 @@ public static void main(String[] args) {
     System.out.println(multi);
     int sum=10+20;
     System.out.println(sum);
+    System.out.println("hellllooooo");
 }
 
 public class  Student {
