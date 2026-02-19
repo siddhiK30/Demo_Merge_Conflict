@@ -5,6 +5,10 @@ public static void main(String[] args) {
 
     int multi = 90*90;
     System.out.println(multi);
+
+}
+public class Emp{
+    
 }
 
 }
