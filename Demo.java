@@ -6,4 +6,10 @@ public static void main(String[] args) {
     System.out.println(sum);
 }
 
+public class  Student {
+    int id;
+    String name;
+    
+}
+
 }
