@@ -13,6 +13,8 @@ public class Emp{
     private int deisgnation;
     
     int sum=10+20;
+    System.out.println(sum);
+    System.out.println("hellllooooo wordll");
 
     public int getEmpid() {
         return empid;
