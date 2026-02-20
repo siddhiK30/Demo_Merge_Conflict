@@ -8,6 +8,9 @@ public static void main(String[] args) {
 
 }
 public class Emp{
+    private int empid;
+    private int role;
+    private int deisg;
     
 }
 
