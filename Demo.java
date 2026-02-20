@@ -20,10 +20,15 @@ public class Emp{
 public class  Student {
     int id;
     String name;
+
+    
     void student(){
 
     }
     
 }
+public interface  Service {
 
+    
+}
 }
