@@ -14,7 +14,7 @@ public class Emp{
     
     int sum=10+20;
     System.out.println(sum);
-    System.out.println("hellllooooo");
+    System.out.println("hellllooooo wordll");
 }
 
 public class  Student {
